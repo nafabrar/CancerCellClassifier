@@ -1,4 +1,7 @@
 # CancerCellClassifier
+# Paper
+https://www.biorxiv.org/content/early/2018/09/13/411058
+
 # CellBrowser:
 
 An app for rating cells on a scale of 1-5. The output containing the Cell-ID,Sample-ID and the rating is saved in the output directory. The app can also plot graphs when provided with the correct CSV input.
