@@ -10,7 +10,7 @@ Pillow==5.0.0
 pygame==1.9.3
 Pygments==2.2.0
 pyparsing==2.2.0
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 PySDL2==0.9.6
 python-dateutil==2.6.1
 pytz==2017.3
